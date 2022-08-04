@@ -1,4 +1,4 @@
-# RSSM：道路影像切割模型 (RoadSensmanticSegmentationModel)
+# RSSM：道路影像切割模型 (Road Semantic Segmentation Model)
 
 ## Overview
 此模型為台灣郊區、山區道路俯視角空拍語意切割模型。  
