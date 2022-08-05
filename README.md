@@ -4,7 +4,7 @@
 此模型為台灣郊區、山區道路俯視角空拍語意切割模型。  
 由政大無人機團隊 starLab 使用 [segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch "link") 進行訓練。  
 訓練、驗證與測試資料集：[郊區、山區道路俯視角空拍語意切割資料集](https://github.com/nccudrone/SMRAVSSD "link")。  
-訓練GPU：RTX3070Ti-8G  
+訓練GPU：RTX2080-8G  
 模型支援之框架與版本： python3.6+、Pytorch 1.4+。  
 
 用途為對影像進行語意切割出郊、山區道路輪廓。  
